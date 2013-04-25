@@ -1,0 +1,77 @@
+.level {
+        color : Red;
+}
+A {
+	text-decoration : none;
+	color: #4569AC;
+}
+A {
+	textdecoration : none;
+	color: #4569AC;
+}
+BODY.inf {
+	background-color : #FBD8A8;
+}
+BODY.par {
+	background-color : #B5CBFF;
+}
+BODY.pur {
+	background-color : Silver;
+}
+H1 {
+	text-align : center;
+	color : #000000;
+}
+H1 {
+	textalign : center;
+	color : #000000;
+}
+H2 {
+	text-align : center;
+	color : #000000;
+}
+H2 {
+	textalign : center;
+	color : #000000;
+}
+H4 {
+	text-align : center;
+	color : #000000;
+}
+H4 {
+	textalign : center;
+	color : #000000;
+}
+HR {
+	color : #5083E2;
+}
+IMG {
+	border : none;
+}
+TABLE.main {
+	width: 800px;
+}
+TD B {
+	font-family : Verdana, Arial, Geneva, Helvetica, sans-serif;
+/*	font-size : 10pt;*/
+	font-size : 13px;
+	text-align : right;
+}
+TD B {
+	fontfamily : Verdana, Arial, Geneva, Helvetica, sans-serif;
+/*	fontsize : 10pt;*/
+	fontsize : 13px;
+	textalign : right;
+}
+TD P {
+	font-family : Verdana, Arial, Geneva, Helvetica, sans-serif;
+/*	font-size : 10pt;*/
+	font-size : 13px;
+	text-align : left;
+}
+TD P {
+	fontfamily : Verdana, Arial, Geneva, Helvetica, sans-serif;
+/*	fontsize : 10pt;*/
+	fontsize : 13px;
+	textalign : left;
+}

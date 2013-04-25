@@ -1,0 +1,21 @@
+.entry {
+	font-family : Verdana, Arial, Geneva, Helvetica, sans-serif;
+	font-size : 10pt;
+	text-align : left;	
+}
+.example {
+	font-style : italic;
+	text-align : left;
+}
+.headword {
+	font-family : Verdana, Arial, Geneva, Helvetica, sans-serif;
+	font-size : 10pt;
+	font-weight : bold;
+	text-align : left;	
+}
+BODY {
+	background-color: White;
+}
+IMG {
+	border : none;
+}
